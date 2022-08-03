@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "143972676520",
+    "project_id": "sinuous-aviary-346723",
+    "storage_bucket": "sinuous-aviary-346723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143972676520:android:02d93d946cf5ea7718e39d",
+        "android_client_info": {
+          "package_name": "com.example.HealthyPicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143972676520-5k8uo8kii7hopdshshf1isle7hjb9bmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-W-TBDLrzz_Yys1Z3gIPb11Wz-OBHmK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143972676520-5k8uo8kii7hopdshshf1isle7hjb9bmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143972676520:android:01d4f17fcd1f81de18e39d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143972676520-5k8uo8kii7hopdshshf1isle7hjb9bmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-W-TBDLrzz_Yys1Z3gIPb11Wz-OBHmK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143972676520-5k8uo8kii7hopdshshf1isle7hjb9bmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
